@@ -1,0 +1,11 @@
+{
+  "name": "bull-queue-extender",
+  "version": "0.0.1",
+  "main": "lib/queue.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "bull": "^3.10.0",
+    "lodash": "^4.17.15"
+  }
+}
