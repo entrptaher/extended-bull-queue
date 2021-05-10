@@ -6,6 +6,6 @@
   "dependencies": {
     "bluebird": "^3.5.5",
     "bull": "^3.10.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
